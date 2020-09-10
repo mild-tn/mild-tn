@@ -7,6 +7,10 @@ I'm a 4rd Year undergraduate from [King Mongkut's University of Technology Thonb
 💬 Ask me about anything, Um ... I am happy to help 😁;
 
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mild-tn&&layout=compact" alt="Mild's Github Stats">
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mild-tn" alt="Mild's Github Stats">
 </p>
 
