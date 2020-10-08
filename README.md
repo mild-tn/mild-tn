@@ -2,7 +2,7 @@
 ----
 
 
-I'm a 4rd Year undergraduate from [King Mongkut's University of Technology Thonburi](https://global.kmutt.ac.th/), I'm ready to learn everything.
+I'm a 4th Year undergraduate from [King Mongkut's University of Technology Thonburi](https://global.kmutt.ac.th/), I'm ready to learn everything.
 
 💬 Ask me about anything, Um ... I am happy to help 😁;
 
