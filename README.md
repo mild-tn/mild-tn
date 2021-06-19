@@ -5,6 +5,11 @@
 
 ### Blogs posts:
 <!-- BLOG-POST-LIST:START -->
+- [Kata ทำให้เราดีขึ้นกว่าเมื่อวาน](https://mild-tn.medium.com/%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%84%E0%B9%88%E0%B8%B0-%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%99%E0%B8%B5%E0%B9%89%E0%B8%81%E0%B9%87%E0%B8%88%E0%B8%B0%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%86-%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%9E%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%A3%E0%B8%AD%E0%B8%88%E0%B8%9A%E0%B8%9B%E0%B8%B5-4-ab16bcafa41a?source=rss-1c4d9cd3c533------2)
+- [ประสบการณ์คนเขียนระบบ Vote ดาวเดือน IT-3K 2019 #16](https://alchemist.itbangmod.in.th/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%84%E0%B8%99%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A-vote-%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%94%E0%B8%B7%E0%B8%AD%E0%B8%99-it-3k-2019-16-ecc6a2eca0a6?source=rss-1c4d9cd3c533------2)
+- [สวัสดี ! VLAN](https://mild-tn.medium.com/%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5-vlan-96269e23b140?source=rss-1c4d9cd3c533------2)
+- [Spanning Tree Protocol | IEEE802.1D](https://mild-tn.medium.com/spanning-tree-protocol-ieee802-1d-f96dfbcaec7e?source=rss-1c4d9cd3c533------2)
+- [ได้อะไรจากการเรียน INT201 วันที่ 16/10/2018](https://mild-tn.medium.com/%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99-int201-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-16-10-2018-55c533d2cdbf?source=rss-1c4d9cd3c533------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
