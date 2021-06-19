@@ -10,6 +10,10 @@ I'm a 4th Year undergraduate from [King Mongkut's University of Technology Thonb
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mild-tn&&layout=compact" alt="Mild's Github Stats">
 </p> -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mild-tn" alt="Mild's Github Stats">
 </p>
