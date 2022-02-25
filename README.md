@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mild.</h1>
-<h3 align="center">A passionate about software development.</h3>
+<h3 align="center">A passionate about software development</h3>
 
 - 💬 Ask me about **Front-end, Testing, and Software Development**
 
